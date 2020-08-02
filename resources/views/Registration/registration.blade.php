@@ -46,7 +46,7 @@
                         </div>
                         <div>
                             <button class="btn btn-info">Gửi</button>
-                            <button class="btn btn-danger">Canle</button>
+                            <button class="btn btn-danger">Cancle</button>
                         </div>
                         
                     </form>
